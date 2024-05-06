@@ -3,10 +3,10 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernumber = [+260961334427]
-global.ownername = "×͜×᭄łNNOCENT//owner name
+global.ownername = "INNOCENT//owner name
 global.ytname = "YT: Mary.inc"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Zambia"
+global.location = "Africa"
 
 global.botname = '𝐌𝐀RY-𝐌𝐃' //name of the bot
 
@@ -25,7 +25,7 @@ global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
 global.prefa = ['!']
 
 //false=disable and true=enable
-global.welcome = false //auto welcome
+global.welcome = true //auto welcome
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
