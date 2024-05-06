@@ -49,7 +49,7 @@ global.mess = {
     error: '*Error!*',
 }
 
-global.thumb = fs.readFileSync('./Gallery/thumb.jpg')
+global.thumb = fs.readFileSync('.https://c4.wallpaperflare.com/wallpaper/152/806/405/anime-naruto-shippuuden-uchiha-obito-sharingan-wallpaper-preview.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
